@@ -1,0 +1,43 @@
+body{
+    background-image: url(./asus.webp);
+    margin: 0;
+    padding: 0;
+    font-family: 'Chakra Petch', sans-serif;
+}
+h1{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 800%;
+    
+}
+
+nav {
+    background-color: rgb(32, 12, 123);
+    display: flex;
+    justify-content: space-between;
+  }
+
+  ul{
+    display: flex;
+    list-style-type: none;
+  }
+
+  ul li{
+    padding: 10px;
+  }
+
+  ul li a {
+    color: white; 
+    text-decoration: none; 
+    text-transform: uppercase;
+  }
+
+  h2{
+    text-align: left;
+    color: whitesmoke;
+  }
+  
+  a{
+    color: azure;
+
+  }
